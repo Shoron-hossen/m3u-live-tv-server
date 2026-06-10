@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0,CANAL+ 4K UHD
+http://116.202.165.211:2021/live/FbIKnEXo42qyPkK/8beWk1aoWZy/6560.ts
+#EXTINF:72,FR | L'EQUIPE 21
+https://jmp2.uk/stvp-FR200016Y5
+#EXTINF:0,FR | BEIN SPORT 2 HD
+http://116.202.165.211:8181/live/FbIKnEXo42qyPkK/8beWk1aoWZy/2402.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports",Caze TV 🇧🇷 Brazil
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports",Caze TV B - 🇧🇷 Brazil
