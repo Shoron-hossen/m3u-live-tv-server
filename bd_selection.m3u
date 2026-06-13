@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports",telemundo -FIFA 2026
 https://daffodil.sandhost.dpdns.org/tele.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports",FOX-FIFA 2026
+https://daffodil.sandhost.dpdns.org/fox.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports",TSN-FIFA 2026
 https://601.thelistener.pk/tsn.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports",TELEMUNDO-FIFA 2026
