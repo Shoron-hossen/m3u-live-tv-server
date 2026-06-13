@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports", FIFA 2026
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports", FIFA 2026
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports", FIFA 2026
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
