@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports 🇧🇩 (1)
 http://103.14.151.101:11/hoichoi24com/tvnetwork2/manik-kuttar-baccha.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports",TSN-FIFA 2026
-https://601.thelistener.pk/tsn.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports",telemundo -FIFA 2026
+https://daffodil.sandhost.dpdns.org/tele.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports",FOX-FIFA 2026
+https://daffodil.sandhost.dpdns.org/fox.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports",TELEMUNDO-FIFA 2026
 https://daffodil.thelistener.pk/tele.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png" group-title="Sports",fox 1080p -FIFA 2026
